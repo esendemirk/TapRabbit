@@ -3,27 +3,47 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 50;
+	objectVersion = 51;
 	objects = {
 
 /* Begin PBXBuildFile section */
+		271454AC246FB46200C1EBAA /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 271454AB246FB46200C1EBAA /* Images.xcassets */; };
+		276DE82D246B98E0000CDEF3 /* tap.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 276DE82B246B98E0000CDEF3 /* tap.mp3 */; };
+		276DE82E246B98E0000CDEF3 /* gameover.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 276DE82C246B98E0000CDEF3 /* gameover.mp3 */; };
+		276DE833246B9A2B000CDEF3 /* PlaySound.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276DE82F246B9A2B000CDEF3 /* PlaySound.swift */; };
+		276DE834246B9A2B000CDEF3 /* ScoreView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276DE830246B9A2B000CDEF3 /* ScoreView.swift */; };
+		276DE835246B9A2B000CDEF3 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276DE831246B9A2B000CDEF3 /* HomeView.swift */; };
+		276DE836246B9A2B000CDEF3 /* GameView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 276DE832246B9A2B000CDEF3 /* GameView.swift */; };
 		27825A90246B97BD00E472B1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27825A8F246B97BD00E472B1 /* AppDelegate.swift */; };
 		27825A92246B97BD00E472B1 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27825A91246B97BD00E472B1 /* SceneDelegate.swift */; };
-		27825A94246B97BD00E472B1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27825A93246B97BD00E472B1 /* ContentView.swift */; };
-		27825A96246B97BE00E472B1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27825A95246B97BE00E472B1 /* Assets.xcassets */; };
-		27825A99246B97BE00E472B1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 27825A98246B97BE00E472B1 /* Preview Assets.xcassets */; };
 		27825A9C246B97BE00E472B1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 27825A9A246B97BE00E472B1 /* LaunchScreen.storyboard */; };
+		278D8849246CEC9500359871 /* GameOverView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278D8848246CEC9500359871 /* GameOverView.swift */; };
+		27908174246E194F0000DD16 /* AdView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27908173246E194F0000DD16 /* AdView.swift */; };
+		27F849BB246DC3110064DBA8 /* VarelaRound-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 27F849BA246DC3110064DBA8 /* VarelaRound-Regular.ttf */; };
+		27F849BD246DFD840064DBA8 /* Navigate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 27F849BC246DFD840064DBA8 /* Navigate.swift */; };
+		51A28D149364BC8E4BF7522F /* Pods_TapRabbit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FB8D89651AF795DC1A126668 /* Pods_TapRabbit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		271454AB246FB46200C1EBAA /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		276DE82B246B98E0000CDEF3 /* tap.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = tap.mp3; sourceTree = "<group>"; };
+		276DE82C246B98E0000CDEF3 /* gameover.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = gameover.mp3; sourceTree = "<group>"; };
+		276DE82F246B9A2B000CDEF3 /* PlaySound.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaySound.swift; sourceTree = "<group>"; };
+		276DE830246B9A2B000CDEF3 /* ScoreView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScoreView.swift; sourceTree = "<group>"; };
+		276DE831246B9A2B000CDEF3 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		276DE832246B9A2B000CDEF3 /* GameView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GameView.swift; sourceTree = "<group>"; };
 		27825A8C246B97BD00E472B1 /* TapRabbit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TapRabbit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27825A8F246B97BD00E472B1 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		27825A91246B97BD00E472B1 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		27825A93246B97BD00E472B1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		27825A95246B97BE00E472B1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		27825A98246B97BE00E472B1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		27825A9B246B97BE00E472B1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		27825A9D246B97BE00E472B1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		278D8848246CEC9500359871 /* GameOverView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameOverView.swift; sourceTree = "<group>"; };
+		27908173246E194F0000DD16 /* AdView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdView.swift; sourceTree = "<group>"; };
+		27F849BA246DC3110064DBA8 /* VarelaRound-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "VarelaRound-Regular.ttf"; sourceTree = "<group>"; };
+		27F849BC246DFD840064DBA8 /* Navigate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigate.swift; sourceTree = "<group>"; };
+		91469F2B685024C209A70783 /* Pods-TapRabbit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TapRabbit.debug.xcconfig"; path = "Target Support Files/Pods-TapRabbit/Pods-TapRabbit.debug.xcconfig"; sourceTree = "<group>"; };
+		CD071E4527B6B78093B51DD8 /* Pods-TapRabbit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TapRabbit.release.xcconfig"; path = "Target Support Files/Pods-TapRabbit/Pods-TapRabbit.release.xcconfig"; sourceTree = "<group>"; };
+		FB8D89651AF795DC1A126668 /* Pods_TapRabbit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TapRabbit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,17 +51,29 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51A28D149364BC8E4BF7522F /* Pods_TapRabbit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		1C2C7040DE24BCB3C55073CE /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				91469F2B685024C209A70783 /* Pods-TapRabbit.debug.xcconfig */,
+				CD071E4527B6B78093B51DD8 /* Pods-TapRabbit.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		27825A83246B97BD00E472B1 = {
 			isa = PBXGroup;
 			children = (
 				27825A8E246B97BD00E472B1 /* TapRabbit */,
 				27825A8D246B97BD00E472B1 /* Products */,
+				1C2C7040DE24BCB3C55073CE /* Pods */,
+				4A24178C2AB858979CBF0588 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -56,23 +88,47 @@
 		27825A8E246B97BD00E472B1 /* TapRabbit */ = {
 			isa = PBXGroup;
 			children = (
+				27908172246E029A0000DD16 /* Sounds */,
+				27F849B9246DC2F00064DBA8 /* Fonts */,
+				27F849BC246DFD840064DBA8 /* Navigate.swift */,
+				27908173246E194F0000DD16 /* AdView.swift */,
+				276DE832246B9A2B000CDEF3 /* GameView.swift */,
+				278D8848246CEC9500359871 /* GameOverView.swift */,
+				276DE830246B9A2B000CDEF3 /* ScoreView.swift */,
+				276DE82F246B9A2B000CDEF3 /* PlaySound.swift */,
+				276DE831246B9A2B000CDEF3 /* HomeView.swift */,
 				27825A8F246B97BD00E472B1 /* AppDelegate.swift */,
 				27825A91246B97BD00E472B1 /* SceneDelegate.swift */,
-				27825A93246B97BD00E472B1 /* ContentView.swift */,
-				27825A95246B97BE00E472B1 /* Assets.xcassets */,
 				27825A9A246B97BE00E472B1 /* LaunchScreen.storyboard */,
 				27825A9D246B97BE00E472B1 /* Info.plist */,
-				27825A97246B97BE00E472B1 /* Preview Content */,
+				271454AB246FB46200C1EBAA /* Images.xcassets */,
 			);
 			path = TapRabbit;
 			sourceTree = "<group>";
 		};
-		27825A97246B97BE00E472B1 /* Preview Content */ = {
+		27908172246E029A0000DD16 /* Sounds */ = {
 			isa = PBXGroup;
 			children = (
-				27825A98246B97BE00E472B1 /* Preview Assets.xcassets */,
+				276DE82C246B98E0000CDEF3 /* gameover.mp3 */,
+				276DE82B246B98E0000CDEF3 /* tap.mp3 */,
 			);
-			path = "Preview Content";
+			path = Sounds;
+			sourceTree = "<group>";
+		};
+		27F849B9246DC2F00064DBA8 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				27F849BA246DC3110064DBA8 /* VarelaRound-Regular.ttf */,
+			);
+			path = Fonts;
+			sourceTree = "<group>";
+		};
+		4A24178C2AB858979CBF0588 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				FB8D89651AF795DC1A126668 /* Pods_TapRabbit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -82,9 +138,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 27825AA0246B97BE00E472B1 /* Build configuration list for PBXNativeTarget "TapRabbit" */;
 			buildPhases = (
+				7F7A22037E298CB682FBFEE5 /* [CP] Check Pods Manifest.lock */,
 				27825A88246B97BD00E472B1 /* Sources */,
 				27825A89246B97BD00E472B1 /* Frameworks */,
 				27825A8A246B97BD00E472B1 /* Resources */,
+				96FBE3F68F699B3DBA6F5170 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -134,21 +192,71 @@
 			buildActionMask = 2147483647;
 			files = (
 				27825A9C246B97BE00E472B1 /* LaunchScreen.storyboard in Resources */,
-				27825A99246B97BE00E472B1 /* Preview Assets.xcassets in Resources */,
-				27825A96246B97BE00E472B1 /* Assets.xcassets in Resources */,
+				276DE82E246B98E0000CDEF3 /* gameover.mp3 in Resources */,
+				276DE82D246B98E0000CDEF3 /* tap.mp3 in Resources */,
+				27F849BB246DC3110064DBA8 /* VarelaRound-Regular.ttf in Resources */,
+				271454AC246FB46200C1EBAA /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		7F7A22037E298CB682FBFEE5 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-TapRabbit-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		96FBE3F68F699B3DBA6F5170 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TapRabbit/Pods-TapRabbit-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-TapRabbit/Pods-TapRabbit-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-TapRabbit/Pods-TapRabbit-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		27825A88246B97BD00E472B1 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				27F849BD246DFD840064DBA8 /* Navigate.swift in Sources */,
+				278D8849246CEC9500359871 /* GameOverView.swift in Sources */,
 				27825A90246B97BD00E472B1 /* AppDelegate.swift in Sources */,
+				276DE835246B9A2B000CDEF3 /* HomeView.swift in Sources */,
+				276DE834246B9A2B000CDEF3 /* ScoreView.swift in Sources */,
+				276DE833246B9A2B000CDEF3 /* PlaySound.swift in Sources */,
+				27908174246E194F0000DD16 /* AdView.swift in Sources */,
 				27825A92246B97BD00E472B1 /* SceneDelegate.swift in Sources */,
-				27825A94246B97BD00E472B1 /* ContentView.swift in Sources */,
+				276DE836246B9A2B000CDEF3 /* GameView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -216,13 +324,14 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -270,25 +379,28 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
 				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
 		27825AA1246B97BE00E472B1 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 91469F2B685024C209A70783 /* Pods-TapRabbit.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"TapRabbit/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TapRabbit/Images.xcassets\"";
 				DEVELOPMENT_TEAM = 925MKJV2P3;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = TapRabbit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -302,13 +414,15 @@
 		};
 		27825AA2246B97BE00E472B1 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CD071E4527B6B78093B51DD8 /* Pods-TapRabbit.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"TapRabbit/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"TapRabbit/Images.xcassets\"";
 				DEVELOPMENT_TEAM = 925MKJV2P3;
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = TapRabbit/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
