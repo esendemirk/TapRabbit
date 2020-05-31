@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>012D170E-D341-4798-8622-2EB00045458D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>012D170E-D341-4798-8622-2EB00045458D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TapRabbit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TapRabbit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TapRabbit</string>
+			<key>timeStartedRecording</key>
+			<real>611295307.74217904</real>
+			<key>timeStoppedRecording</key>
+			<real>611295307.79511797</real>
+			<key>title</key>
+			<string>Build TapRabbit</string>
+			<key>uniqueIdentifier</key>
+			<string>012D170E-D341-4798-8622-2EB00045458D</string>
+		</dict>
+		<key>0D2A8FCB-5A4E-4CE4-9DC8-5183DEFDD07E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0D2A8FCB-5A4E-4CE4-9DC8-5183DEFDD07E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TapRabbit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TapRabbit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TapRabbit</string>
+			<key>timeStartedRecording</key>
+			<real>611295306.77508104</real>
+			<key>timeStoppedRecording</key>
+			<real>611295306.82182503</real>
+			<key>title</key>
+			<string>Build TapRabbit</string>
+			<key>uniqueIdentifier</key>
+			<string>0D2A8FCB-5A4E-4CE4-9DC8-5183DEFDD07E</string>
+		</dict>
+		<key>236B2A78-A7A1-4214-B5D2-7B313249F6A8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>236B2A78-A7A1-4214-B5D2-7B313249F6A8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TapRabbit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TapRabbit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TapRabbit</string>
+			<key>timeStartedRecording</key>
+			<real>611295224.18853498</real>
+			<key>timeStoppedRecording</key>
+			<real>611295224.68125796</real>
+			<key>title</key>
+			<string>Build TapRabbit</string>
+			<key>uniqueIdentifier</key>
+			<string>236B2A78-A7A1-4214-B5D2-7B313249F6A8</string>
+		</dict>
+		<key>3B9FD426-2425-40C9-B09D-4A21A3CDA491</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3B9FD426-2425-40C9-B09D-4A21A3CDA491.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TapRabbit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TapRabbit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TapRabbit</string>
+			<key>timeStartedRecording</key>
+			<real>611295308.96237695</real>
+			<key>timeStoppedRecording</key>
+			<real>611295309.01035595</real>
+			<key>title</key>
+			<string>Build TapRabbit</string>
+			<key>uniqueIdentifier</key>
+			<string>3B9FD426-2425-40C9-B09D-4A21A3CDA491</string>
+		</dict>
+		<key>81966D15-3A17-44A6-9405-33F737C2CE46</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>81966D15-3A17-44A6-9405-33F737C2CE46.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TapRabbit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TapRabbit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TapRabbit</string>
+			<key>timeStartedRecording</key>
+			<real>611295228.13913596</real>
+			<key>timeStoppedRecording</key>
+			<real>611295228.18321395</real>
+			<key>title</key>
+			<string>Clean TapRabbit</string>
+			<key>uniqueIdentifier</key>
+			<string>81966D15-3A17-44A6-9405-33F737C2CE46</string>
+		</dict>
+		<key>F3D7DEAF-5F8B-49DA-B0E2-974F3A7D0FA0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F3D7DEAF-5F8B-49DA-B0E2-974F3A7D0FA0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TapRabbit project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TapRabbit</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean TapRabbit</string>
+			<key>timeStartedRecording</key>
+			<real>611295108.55040896</real>
+			<key>timeStoppedRecording</key>
+			<real>611295108.66893601</real>
+			<key>title</key>
+			<string>Clean TapRabbit</string>
+			<key>uniqueIdentifier</key>
+			<string>F3D7DEAF-5F8B-49DA-B0E2-974F3A7D0FA0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_TapRabbit {
+  umbrella header "Pods-TapRabbit-umbrella.h"
+
+  export *
+  module * { export * }
+}
